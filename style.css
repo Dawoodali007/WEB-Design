@@ -195,7 +195,7 @@
     margin-bottom: 80px;
 }
 footer{
-    height: 600px;
+    height: 430px;
     background-color: rgb(225, 225, 225);
     position: relative;
     top: 150px;
@@ -287,5 +287,13 @@ footer{
     position: relative;
     left: 250px;
     margin-top: 10px;
+    /* border: 1px solid; */
+    width: max-content;
+}
+.footer-pic{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 31px;
 }
 
