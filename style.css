@@ -249,7 +249,6 @@ footer{
     padding: 20px;
     font-family: sans-serif;
     font-size: x-small;
-
 }
 .fslinks{
     color: blue;
@@ -266,3 +265,27 @@ footer{
     background-color: white;
 
 }
+.cr{
+    width: 420px;
+    font-family: sans-serif;
+    font-size: small;
+    margin-top: 80px;
+    position: relative;
+    left: 260px;
+    margin-bottom: 10px;
+}
+.crlinks{
+    color: black;
+    font-weight: 100;
+    padding: 0%;
+    text-transform: none;
+    margin-top: 8px;
+    display: inline-block;
+}
+.fl-content{
+    font-size: large;
+    position: relative;
+    left: 250px;
+    margin-top: 10px;
+}
+
